@@ -1,0 +1,25 @@
+body{
+    background-color: greenyellow;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 72px;
+    color: #6495ED;
+
+}
+input{
+    font-size: 3rem;
+    padding: 1rem;
+    border: .5rem solid black;
+    text-align: center;
+}
+.buttons{
+    margin-top: 3rem;
+    text-align: center;
+}
+button{
+    font-size: 3rem;
+    padding: 1rem;
+    cursor: pointer;
+}
